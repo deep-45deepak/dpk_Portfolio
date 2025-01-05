@@ -7,10 +7,9 @@ This project showcases my skills, projects, and achievements as a developer. It 
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (React.js if applicable)
-- **Backend**: Node.js, Express.js (or Django/Flask if Python-based)
-- **Styling**: Bootstrap, TailwindCSS, or custom CSS
-- **Hosting**: GitHub Pages, Netlify, or Vercel
+- **Frontend**: HTML, CSS, JavaScript (JS).
+- **Styling**: TailwindCSS, or custom CSS
+- **Hosting**: GitHub Pages
 - **Version Control**: Git and GitHub
 
 ---
