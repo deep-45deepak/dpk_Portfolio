@@ -76,7 +76,7 @@ Once the website is loaded, you can:
 
 Feel free to contact me through the following channels:
 
-- Email: [deepak@example.com](mailto:dpk.41deep@gmail.com)
+- Email: [dpk.41deep@gmail.com](mailto:dpk.41deep@gmail.com)
 - Phone: +919643359747
 - Address: 123 Street, City, Country
 
